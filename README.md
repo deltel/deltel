@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deltel
 - 👀 I’m interested in mobile and web development.
-- 🌱 I’m currently learning react native and spring boot.
+- 🌱 I’m currently learning react native, spring boot and unit testing with junit and mockito.
 
 <!---
 deltel/deltel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
